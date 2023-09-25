@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 4px;
+}
+.para {
+    display: flex;
+}
+img {
+    height: 400px;
+    width: 1000px;
+    margin: 5px;
+    border-radius: 0.25rem;
+ box-shadow: 0 5px 20px -10px rgb(242,182,0), 0 4px 25px 0px rgba(0,0,0,0.12), 0 8px 10px -5px rgba(177,171,253,0.2);
+
+}
+.heading{
+    margin-top: 30px;
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
